@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OLD-DATA/auz
 - 👀 I’m interested in inscryption and coding as well as crypto mining
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on a mining pool or a python projects
+- 💞️ I’m looking to collaborate on a js course or solidity course
 - 📫 How to reach me is to email me at 6833126941@student.cms.k12.nc.us
 
 <!---
